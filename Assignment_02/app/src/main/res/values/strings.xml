@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment_02</string>
+    <string name="label_name">Name:</string>
+    <string name="label_age">Age:</string>
+    <string name="label_feeling1">How you\'re feeling:</string>
+    <string name="button_tellUs">Tell Us</string>
+    <string name="button_submit">Submit</string>
+    <string name="label_feeling2">How are you feeling?</string>
+    <string name="cancel_mood">Cancel</string>
+    <string name="submit_mood">Submit</string>
+    <string name="years_old">years old</string>
+    <string name="back_profile">Back</string>
+    <string name="profile_name" />
+    <string name="seekbar_progress">Not Well</string>
+    <string name="empty">1 out of 4</string>
+    <string name="no_value">x out of 4</string>
+    <string name="no_value_status">status</string>
+    <string name="noAge">xx</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="label_billValue">Bill Value:</string>
+    <string name="label_tipPercent">Tip %:</string>
+    <string name="label_customPercent">Custom %:</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="tip_10">10%</string>
+    <string name="tip_15">15%</string>
+    <string name="tip_18">18%</string>
+    <string name="tip_custom">Custom</string>
+    <string name="hint_enterBill">Enter bill value</string>
+    <string name="label_tipFinal">Tip:</string>
+    <string name="label_amountFinal">Total:</string>
+    <string name="value_tipFinal">0.00</string>
+    <string name="value_amountFinal">0.00</string>
+    <string name="value_customSeekBar">0%</string>
+</resources>
